@@ -1,0 +1,6 @@
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.AssemblyInfoInputs.cache
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.AssemblyInfo.cs
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.csproj.CoreCompileInputs.cache
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.MvcApplicationPartsAssemblyInfo.cache
