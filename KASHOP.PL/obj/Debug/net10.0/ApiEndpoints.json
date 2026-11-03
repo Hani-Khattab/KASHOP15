@@ -1,15 +1,5 @@
 [
   {
-    "ContainingType": "KASHOP.PL.Controllers.BrandsController",
-    "Method": "Index",
-    "RelativePath": "api/Brands",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "KASHOP.PL.Controllers.CategoriesController",
     "Method": "Index",
     "RelativePath": "api/Categories",
@@ -17,22 +7,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "KASHOP.PL.Controllers.CategoriesController",
-    "Method": "create",
-    "RelativePath": "api/Categories",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "category",
-        "Type": "KASHOP.DAL.Models.Category",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   },
   {

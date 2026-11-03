@@ -168,3 +168,6 @@ C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\A
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net10.0\KASHOP.PL.sourcelink.json
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\bin\Debug\net10.0\Mapster.dll
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\bin\Debug\net10.0\Mapster.Core.dll

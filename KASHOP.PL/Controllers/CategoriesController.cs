@@ -1,4 +1,5 @@
-﻿using KASHOP.DAL.Data;
+﻿using KASHOP.BLL;
+using KASHOP.DAL.Data;
 using KASHOP.DAL.Models;
 using KASHOP.DAL.Repositories;
 using Microsoft.AspNetCore.Http;
@@ -11,13 +12,18 @@ namespace KASHOP.PL.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
+        private readonly ICategoryService _service;
+        public CategoriesController (ICategoryService service) 
+        {
+            _service = service;
+        }
 
-        GenericRepository <Category> repo = new GenericRepository<Category>();
+
 
         [HttpGet("")]
-        public IActionResult Index() {
+        public async Task <IActionResult> Index(CancellationToken cancellationToken) {
 
-        var categories = repo.Get();
+        var categories = await _service.GetAllAsync(cancellationToken);
 
           
             return Ok(categories);
@@ -30,12 +36,12 @@ namespace KASHOP.PL.Controllers
           //  return Ok(categories);
         //}
 
-        [HttpPost("")]
-        public IActionResult create(Category category)
-        {
-            repo.Create(category);
-            return Ok();
+        //[HttpPost("")]
+        //public IActionResult create(Category category)
+       // {
+            //_repository.Create(category);
+           // return Ok();
           
-        }
+      //  }
     }
 }

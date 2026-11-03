@@ -13,3 +13,4 @@ C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\A
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.DAL\obj\Debug\net10.0\KASHOP.DAL.genruntimeconfig.cache
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.DAL\obj\Debug\net10.0\ref\KASHOP.DAL.dll
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.DAL\obj\Debug\net10.0\KASHOP.DAL.csproj.Up2Date
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.DAL\obj\Debug\net10.0\KASHOP.DAL.sourcelink.json

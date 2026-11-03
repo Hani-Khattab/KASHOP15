@@ -11,14 +11,14 @@ namespace KASHOP.PL.Controllers
     [ApiController]
     public class BrandsController : ControllerBase
     {
-        GenericRepository<Category> repo = new GenericRepository<Category>();
+      //  GenericRepository<Category> repo = new GenericRepository<Category>();
 
-        [HttpGet("")]
-        public IActionResult Index()
-        {
-            var brands = repo.Get();
-            return Ok(brands);
-        }
+        //[HttpGet("")]
+        //public IActionResult Index()
+       // {
+         //   var brands = repo.Get();
+           // return Ok(brands);
+        //}
 
 
         //[HttpGet("{id}")]
