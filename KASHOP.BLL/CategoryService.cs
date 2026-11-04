@@ -1,4 +1,5 @@
-﻿using KASHOP.DAL.DTO.Requests;
+﻿using KASHOP.BLL.Settings;
+using KASHOP.DAL.DTO.Requests;
 using KASHOP.DAL.DTO.Responses;
 using KASHOP.DAL.Models;
 using KASHOP.DAL.Repositories;
@@ -21,33 +22,54 @@ namespace KASHOP.BLL
 
         public async Task<bool> CreateAsync(CategoryRequest request , CancellationToken cancellationToken = default)
         {
-            var existing = await _repo.GetAsync(filter: c=>c.Name.ToLower() == request.Name.ToLower(),
-                cancellationToken:cancellationToken
+           //شرط اول ما يعمل (كرييت) يفحص هل اللغة موجود
+            if (!AreTranslationsValid(request.Translations))
+                return false;
+
+            var names = request.Translations.Select(t => t.Name.ToLower()).ToList();
+            var existing = await _repo.GetOneAsync(
+                filter: c => c.Translations.Any(t => names.Contains(t.Name.ToLower()))
                 );
 
-
             if (existing != null) return false;
-
 
             var category = request.Adapt<Category>();
             await _repo.CreateAsync(category, cancellationToken);
             return true;
+
         }
 
-        public Task<bool> DeleteAsync(int id, CancellationToken cancellationToken = default)
+        public async Task<bool> DeleteAsync(int id, CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            var category = await _repo.GetOneAsync(
+                filter: c => c.Id == id,
+                cancellationToken: cancellationToken
+                );
+
+            if (category is null) return false;
+            await _repo.RemoveAsync(category, cancellationToken);
+            return true;
         }
 
         public async Task<List<CategoryResponse>> GetAllAsync(CancellationToken cancellationToken = default)
         {
-            var categories = await _repo.GetAsync(cancellationToken:cancellationToken);
+            var categories = await _repo.GetAsync(
+                includes: [c => c.Translations],
+                cancellationToken:cancellationToken
+                );
             return categories.Adapt<List<CategoryResponse>>();
         }
 
-        public CategoryResponse? GetByIdAsync(int id)
+        public async Task<CategoryResponse?> GetByIdAsync(int id, CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            var category = await _repo.GetOneAsync(
+                filter:c=>c.Id == id,
+                includes: [c => c.Translations],
+                cancellationToken:cancellationToken
+
+                );
+
+            return category.Adapt<CategoryResponse>();
         }
 
         public Task<bool> UpdateAsync(int id, CategoryRequest request, CancellationToken cancellationToken = default)
@@ -55,12 +77,19 @@ namespace KASHOP.BLL
             throw new NotImplementedException();
         }
 
-        Task<CategoryResponse?> ICategoryService.GetByIdAsync(int id, CancellationToken cancellationToken = default)
+      
+
+
+        private static bool AreTranslationsValid(List<CategoryTranslationRequest> translations)
         {
-            throw new NotImplementedException();
+            var languages = translations.Select(x => x.Language).ToList();
+            if (languages.Distinct().Count() != languages.Count) return false;
+
+            return languages.Count == SupportedLanguages.Languages.Length 
+                && SupportedLanguages.Languages.All(lang => languages.Contains(lang));
         }
 
-        Task<CategoryResponse?> ICategoryService.GetByIdAsync(int id)
+        public Task<CategoryResponse?> GetByIdAsync(int id)
         {
             throw new NotImplementedException();
         }

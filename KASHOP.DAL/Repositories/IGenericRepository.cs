@@ -12,7 +12,12 @@ namespace KASHOP.DAL.Repositories
         Task UpdateAsync(T entity , CancellationToken cancellationToken = default);
         Task RemoveAsync(T entity , CancellationToken cancellationToken = default);
         //in line 15 they use delegate 
-        Task<List<T>> GetAsync(Expression<Func<T, bool>>? filter = null, bool tracked = false, CancellationToken cancellationToken = default);
+        Task<List<T>> GetAsync(
+            Expression<Func<T, bool>>? filter = null,
+            List<Expression<Func<T, object>>>? includes = null,
+            bool tracked = false,
+            CancellationToken cancellationToken = default
+);
         Task GetAsync(Func<Category, bool> value, CancellationToken cancellationToken);
         Task<T?> GetOneAsync(Expression<Func<T, bool>>? filter = null,
         List<Expression<Func<T, object>>>? includes = null,

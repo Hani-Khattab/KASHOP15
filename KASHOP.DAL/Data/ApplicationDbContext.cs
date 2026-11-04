@@ -11,10 +11,16 @@ namespace KASHOP.DAL.Data
     {
         public DbSet<Category> Categories { get; set; }
         public DbSet<Brand> Brands { get; set; }
+        public DbSet<CategoryTranslation>CategoryTranslations { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
     : base(options)
         {
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<CategoryTranslation>().ToTable("CategoriesTranslations");
         }
     }
 }
