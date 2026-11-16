@@ -3,20 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\settings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\settings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\settings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\settings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\dto\\requests\\producttranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\requests\\producttranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\dto\\requests\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\requests\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\dto\\responses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\responses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\kashop.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\kashop.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\models\\producttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\producttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\dto\\requests\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\requests\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\dto\\responses\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,44 +97,24 @@
       "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20261104204720_removecategorynamecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\dto\\requests\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\requests\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\dto\\requests\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\requests\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\models\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\kashop.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\kashop.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.bll\\settings\\supportedlanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9162A00A-22A6-44FC-168C-A902B563F5EE}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\settings\\supportedlanguages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.pl\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7DDF75-51AC-5284-1654-F1949D16CBB2}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|c:\\users\\hkhattab\\onedrive - national insurance company\\desktop\\hani\\fst15\\asp\\api\\kashop\\kashop.dal\\migrations\\20261114163316_addproductsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6752E8-5B2F-C3E7-3BDC-0C17A5436BF2}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\migrations\\20261114163316_addproductsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,175 +124,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\ProductService.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\ProductService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\ProductService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T17:13:21.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\FileService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\FileService.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\FileService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\FileService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T16:37:11.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\IProductService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\IProductService.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\IProductService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T17:13:21.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T17:40:13.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MapsterConfig.cs",
               "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\Settings\\MapsterConfig.cs",
               "RelativeDocumentMoniker": "KASHOP.BLL\\Settings\\MapsterConfig.cs",
               "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\Settings\\MapsterConfig.cs",
               "RelativeToolTip": "KASHOP.BLL\\Settings\\MapsterConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T21:04:09.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbo.CategoriesTranslations.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./KASHOP15/True/SqlTable/dbo.CategoriesTranslations.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/./KASHOP15/True/SqlTable/dbo.CategoriesTranslations.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-11-04T20:51:44.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Program.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Program.cs",
-              "RelativeToolTip": "KASHOP.PL\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwB4AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T11:34:46.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\CategoryService.cs",
-              "RelativeDocumentMoniker": "KASHOP.BLL\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\CategoryService.cs",
-              "RelativeToolTip": "KASHOP.BLL\\CategoryService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowDAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T11:20:48.702Z",
+              "WhenOpened": "2026-11-04T21:04:09.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "KASHOP.PL\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwCYAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Program.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Program.cs",
+              "RelativeToolTip": "KASHOP.PL\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T11:27:18.752Z",
+              "WhenOpened": "2026-09-26T11:34:46.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "dbo.Categories.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./KASHOP15/True/SqlTable/dbo.Categories.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/./KASHOP15/True/SqlTable/dbo.Categories.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-11-04T20:51:14.328Z"
+              "Title": "ProductTranslationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\ProductTranslationRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Requests\\ProductTranslationRequest.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\ProductTranslationRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Requests\\ProductTranslationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:48:49.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20261104204720_RemoveCategoryNameColumn.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Requests\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\ProductRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Requests\\ProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T20:47:20.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T10:03:49.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T10:06:20.729Z"
+              "WhenOpened": "2026-11-15T16:51:09.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAAJAAAAAAAAAA==",
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Responses\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responses\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Responses\\ProductResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responses\\ProductResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T12:27:15.788Z"
+              "WhenOpened": "2026-11-15T16:58:25.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\Product.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T11:01:55.773Z"
+              "WhenOpened": "2026-11-14T15:17:02.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryTranslationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
-              "RelativeToolTip": "KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T12:34:45.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryTranslation.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T12:25:16.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "KASHOP.DAL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "KASHOP.DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T11:13:35.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "KASHOP.BLL.csproj",
               "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\KASHOP.BLL.csproj",
               "RelativeDocumentMoniker": "KASHOP.BLL\\KASHOP.BLL.csproj",
@@ -260,19 +270,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SupportedLanguages.cs",
-              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\Settings\\SupportedLanguages.cs",
-              "RelativeDocumentMoniker": "KASHOP.BLL\\Settings\\SupportedLanguages.cs",
-              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\Settings\\SupportedLanguages.cs",
-              "RelativeToolTip": "KASHOP.BLL\\Settings\\SupportedLanguages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "CategoryTranslationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Requests\\CategoryTranslationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T12:22:09.881Z"
+              "WhenOpened": "2026-11-03T12:34:45.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
+              "Title": "ProductTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\ProductTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T15:21:01.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\IFileService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\IFileService.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\IFileService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T16:37:11.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20261114163316_addProductsModule.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Migrations\\20261114163316_addProductsModule.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20261114163316_addProductsModule.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Migrations\\20261114163316_addProductsModule.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20261114163316_addProductsModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T16:33:16.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\appsettings.json",
               "RelativeDocumentMoniker": "KASHOP.PL\\appsettings.json",
@@ -284,7 +330,145 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\CategoryService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\CategoryService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\CategoryService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:20:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:27:15.788Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "CategoryTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Models\\CategoryTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:25:16.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:01:55.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.CategoriesTranslations.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./KASHOP15/True/SqlTable/dbo.CategoriesTranslations.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/./KASHOP15/True/SqlTable/dbo.CategoriesTranslations.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-04T20:51:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:27:18.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Categories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./KASHOP15/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "dbo.Categories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-04T20:51:14.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20261104204720_RemoveCategoryNameColumn.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Migrations\\20261104204720_RemoveCategoryNameColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:47:20.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Requests\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:03:49.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Responses\\CategoryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T10:06:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "KASHOP.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:13:35.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SupportedLanguages.cs",
+              "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\Settings\\SupportedLanguages.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Settings\\SupportedLanguages.cs",
+              "ToolTip": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.BLL\\Settings\\SupportedLanguages.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Settings\\SupportedLanguages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:22:09.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "BrandsController.cs",
               "DocumentMoniker": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\Controllers\\BrandsController.cs",
               "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\BrandsController.cs",
