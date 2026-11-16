@@ -172,3 +172,4 @@ C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\A
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net10.0\KASHOP.PL.genruntimeconfig.cache
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\obj\Debug\net10.0\ref\KASHOP.PL.dll
 C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\bin\Debug\net10.0\KASHOP.PL.staticwebassets.runtime.json
+C:\Users\hkhattab\OneDrive - National Insurance Company\Desktop\hani\fst15\asp\API\KASHOP\KASHOP.PL\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
