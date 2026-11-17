@@ -1,4 +1,4 @@
-﻿using KASHOP.BLL.Settings;
+﻿using KASHOP.BLL;
 using KASHOP.DAL.DTO.Requests;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -21,6 +21,14 @@ namespace KASHOP.PL.Controllers
         {
             var (success, errors) = await _authService.RegisterAsync(Request);
                 return success ? Ok() : BadRequest(new { errors });
+        }
+
+
+        [HttpPost("Login")]
+        public async Task<IActionResult> Login(LoginRequest Request)
+        {
+            var (success, errors , response) = await _authService.LoginAsync(Request);
+            return success ? Ok(response) : BadRequest(new { errors });
         }
     }
 }

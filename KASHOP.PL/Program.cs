@@ -5,11 +5,14 @@ using KASHOP.DAL.Data;
 using KASHOP.DAL.Models;
 using KASHOP.DAL.Repositories;
 using KASHOP.PL.Utils;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using System.Globalization;
+using System.Text;
 
 namespace KASHOP.PL
 {
@@ -45,8 +48,33 @@ namespace KASHOP.PL
                 Options.Password.RequireNonAlphanumeric = true; // @!#$
                 Options.Lockout.MaxFailedAccessAttempts = 5;
                 Options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+                Options.SignIn.RequireConfirmedEmail = true;
+                Options.SignIn.RequireConfirmedEmail = true;
             }).AddEntityFrameworkStores<ApplicationDbContext>()
               .AddDefaultTokenProviders();
+
+
+
+            builder.Services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }
+            )
+                .AddJwtBearer(options =>
+              {
+                  options.TokenValidationParameters = new TokenValidationParameters
+                  {
+                      ValidateIssuer = true,
+                      ValidateAudience = true,
+                      ValidateLifetime = true,
+                      ValidateIssuerSigningKey = true,
+                      ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                      ValidAudience = builder.Configuration["Jwt:Audience"],
+                      IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"]))
+                  };
+              });
+
 
             builder.Services.AddScoped<IGenericRepository<Category>, GenericRepository<Category>>();
             builder.Services.AddScoped<IGenericRepository<Product>, GenericRepository<Product>>();
@@ -55,9 +83,7 @@ namespace KASHOP.PL
             builder.Services.AddScoped<IProductService, ProductService>();
             builder.Services.AddScoped<ISeedData , RoleSeedData>();
             builder.Services.AddScoped<IAuthService, AuthService>();
-
-
-
+            builder.Services.AddScoped<ITokenService, TokenService>();
 
 
 
