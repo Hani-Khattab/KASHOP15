@@ -26,10 +26,10 @@ namespace KASHOP.BLL
             var roles = await _userManager.GetRolesAsync(user);
             var userClaims = new List<Claim>()
             {
-                new Claim("Id" , user.Id),
-                new Claim("UserName" , user.UserName),
-                new Claim("Email" , user.Email),
-                new Claim("Role" , string.Join(",",roles))
+                new Claim(ClaimTypes.NameIdentifier , user.Id),
+                new Claim(ClaimTypes.Name , user.UserName),
+                new Claim(ClaimTypes.Email , user.Email),
+                new Claim(ClaimTypes.Role , string.Join(",",roles))
             };
 
 
