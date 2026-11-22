@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "8HCSOlMdWDQ=",
+  "dgSpecHash": "e8U5xjD8AGo=",
   "success": true,
   "projectFilePath": "C:\\Users\\hkhattab\\OneDrive - National Insurance Company\\Desktop\\hani\\fst15\\asp\\API\\KASHOP\\KASHOP.PL\\KASHOP.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hkhattab\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\hkhattab\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
     "C:\\Users\\hkhattab\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\hkhattab\\.nuget\\packages\\mapster\\10.0.13\\mapster.10.0.13.nupkg.sha512",
-    "C:\\Users\\hkhattab\\.nuget\\packages\\mapster.core\\10.0.13\\mapster.core.10.0.13.nupkg.sha512",
+    "C:\\Users\\hkhattab\\.nuget\\packages\\mapster\\10.0.14\\mapster.10.0.14.nupkg.sha512",
+    "C:\\Users\\hkhattab\\.nuget\\packages\\mapster.core\\10.0.14\\mapster.core.10.0.14.nupkg.sha512",
     "C:\\Users\\hkhattab\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.14\\microsoft.aspnetcore.authentication.jwtbearer.10.0.14.nupkg.sha512",
     "C:\\Users\\hkhattab\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\10.0.14\\microsoft.aspnetcore.identity.entityframeworkcore.10.0.14.nupkg.sha512",
     "C:\\Users\\hkhattab\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
